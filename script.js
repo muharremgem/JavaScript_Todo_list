@@ -12,7 +12,6 @@ const taskList = document.querySelector("#task-list");
 
 let todos;
 
-
 //* load items
 
 loadItems();
@@ -34,6 +33,7 @@ function loadItems() {
   });
 }
 
+
 //* getıtemsFS local storage
 
 function getItemsFromLS(){
@@ -46,6 +46,7 @@ function getItemsFromLS(){
     return todos;
 }
 
+
 //* set item to local storage
 
 function setItemToLS(newTodo){
@@ -53,7 +54,6 @@ function setItemToLS(newTodo){
     todos.push(newTodo);
     localStorage.setItem("todos",JSON.stringify(todos));
 }
-
 
 
 function createItem(newTodo) {
@@ -118,8 +118,8 @@ function deleteTodoFromStorage(deletetodo){
     });
     localStorage.setItem("todos", JSON.stringify(todos));
 
-
 }
+
 
 //* Tüm Elemanları Slmek
 
