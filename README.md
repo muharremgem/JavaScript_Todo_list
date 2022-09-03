@@ -8,11 +8,11 @@ Project aims to create Todo_list within html and css.
 
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[Todo_list](https://muharremgem.github.io/JavaScript_Todo_list/)| Html Css  |![Todo_list](Todo_list.gif)
+[Todo_list](https://muharremgem.github.io/JavaScript_Todo_list/)| Html Css Js |![Todo_list](Todo_list.gif)
 
 
 ## Problem Statement
-- My project to improve html and css tutorials
+- My project to improve html,css and js tutorials
 
 ## Project Design
 
@@ -25,7 +25,8 @@ Todo_list (folder)
 |----images
 |----readme.md                 
 |----index.html  
-|----style.css   
+|----style.css  
+|----script.js
        
 ```
 
@@ -46,6 +47,8 @@ Functionally create a Todo_list as in the image above
 - CSS Margins-Padding
 
 - CSS Properties for Texts-Font Families-Links
+
+- Js Dom , global storage , local storage
 
 
 ### At the end of the project, students will be able to;
