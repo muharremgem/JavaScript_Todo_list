@@ -16,7 +16,7 @@ Project aims to create Todo_list within html and css.
 
 ## Project Design
 
-- Figma
+- Figma 
 
 ## Project Skeleton 
 
@@ -48,7 +48,7 @@ Functionally create a Todo_list as in the image above
 
 - CSS Properties for Texts-Font Families-Links
 
-- Js Dom , global storage , local storage
+- Js Dom , global storage , local storage ...
 
 
 ### At the end of the project, students will be able to;
