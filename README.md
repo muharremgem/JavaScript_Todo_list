@@ -28,7 +28,7 @@ Todo_list (folder)
 |----style.css  
 |----script.js
        
-```
+       
 
 ## Expected Outcome
 
@@ -48,7 +48,7 @@ Functionally create a Todo_list as in the image above
 
 - CSS Properties for Texts-Font Families-Links
 
-- Js Dom , global storage , local storage ...
+- Js GetElementById, QuerySelector(),  Dom , global storage , local storage ...
 
 
 ### At the end of the project, students will be able to;
